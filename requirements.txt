@@ -91,7 +91,7 @@ nltk==3.9.1
 notebook==7.3.3
 notebook_shim==0.2.4
 numba==0.61.0
-numpy==2.1.3
+numpy==1.26.4
 nvidia-cublas-cu12==12.4.5.8
 nvidia-cuda-cupti-cu12==12.4.127
 nvidia-cuda-nvrtc-cu12==12.4.127
@@ -145,6 +145,7 @@ rfc3986-validator==0.1.1
 rich==14.0.0
 rpds-py==0.24.0
 safetensors==0.5.3
+scikit-surprise==1.1.4
 scipy==1.15.2
 seaborn==0.13.2
 Send2Trash==1.8.3
