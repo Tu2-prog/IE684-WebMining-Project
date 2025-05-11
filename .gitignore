@@ -174,3 +174,7 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 .ideadata/beer_absa_train.dat
+
+/data/beer_absa_train.dat
+
+/data/*.dat
